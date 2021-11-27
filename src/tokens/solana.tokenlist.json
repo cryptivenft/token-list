@@ -32657,6 +32657,84 @@
       "name": "BUTOKEN",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BuToUqdPzbhB16rtFHwReDPVUjaQ3YRBYNU6i3x2HYYb/logo.jpg"
+    },
+    {
+      "chainId": 103,
+      "address": "9koJxhRXUX3zAbgWmFdvJkJjm8WfmV5MdcCRMapuuSvc",
+      "symbol": "HMTC",
+      "name": "Hamlett Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9koJxhRXUX3zAbgWmFdvJkJjm8WfmV5MdcCRMapuuSvc/logo.png",
+      "tags": [
+        "troll",
+        "company"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Jul00t",
+        "website": "http://hamlett-company.tk/"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3F78gqMGe12Z2RV77qevTcYP1z6jus5R5LAmbU2mDxRJ",
+      "symbol": "PIU",
+      "name": "PIU COIN",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/s9T8Zvj/mamu.jpg",
+      "tags": [
+        "mamma",
+        "altcoin"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "FtRnQYHNmQNkX1T1ZuWd7HtFV2GrvJwTm4CwtXMvWRs8",
+      "symbol": "SBBY",
+      "name": "StakedBabylonDAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg",
+      "tags": [
+        "Utility-token",
+        "Defi",
+        "StakedBabylonDAO"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/babylondao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo",
+      "symbol": "BBY",
+      "name": "BabylonDAO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg",
+      "tags": [
+        "Utility-token",
+        "Defi",
+        "BabylonDAO"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/babylondao"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9ovRpcbTPAGAsnfPDRHyu7Jy5qaXfmYpn8xNpaLkU1tX",
+      "symbol": "JOV",
+      "name": "Jove",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9ovRpcbTPAGAsnfPDRHyu7Jy5qaXfmYpn8xNpaLkU1tX/logo.png",
+      "tags": [
+        "community-token",
+        "game",
+        "NFT"
+      ],
+      "extensions": {
+        "discord": "https://discord.com/invite/pecpAJNUJP",
+        "twitter": "https://twitter.com/JoveCryptoGames",
+        "website": "https://jove.games/"
+      }
     }
   ],
   "version": {
